@@ -6,7 +6,7 @@ attempt = 0
 while True:
     # list parameters
     random_list = []
-    n = 3
+    n = 5
 
     # generate random list
     for i in range(n):
